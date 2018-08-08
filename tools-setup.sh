@@ -10,6 +10,4 @@ cp src/genosine/genosine bin/
 sudo cp -rv c64/* /usr/lib/vice/
 ln -s /usr/bin/x64 bin/x64
 
-rm -rf src
-rm -rf c64
 
