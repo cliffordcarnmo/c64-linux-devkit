@@ -1,1 +1,4 @@
 bin
+src/acme/src/*.o
+
+
